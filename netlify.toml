@@ -1,0 +1,17 @@
+[[redirects]]
+  from = "/"
+  to = "https://gfork.dahi.icu/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/favicon.ico"
+  to = "https://gfork.dahi.icu/favicon.ico"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/*"
+  to = "https://cdn-1-mod-agf.zh-cn.eu.org/:splat"
+  status = 308
+  force = true
