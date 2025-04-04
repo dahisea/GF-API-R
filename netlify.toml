@@ -13,5 +13,4 @@
 [[redirects]]
   from = "/*"
   to = "https://cdn-1-mod-agf.zh-cn.eu.org/:splat"
-  status = 308
-  force = true
+  status = 200
