@@ -1,7 +1,7 @@
 [[redirects]]
   from = "/"
-  to = "https://gfork.dahi.icu/404"
-  status = 301
+  to = "https://dahisea.github.io/GF-WWW/"
+  status = 200
   force = true
 
 [[redirects]]
