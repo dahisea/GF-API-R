@@ -11,6 +11,11 @@
   force = true
 
 [[redirects]]
+  from = "/p/1E3F8A9F-DDC6-4D76-B101-5683AA13E349"
+  to = "https://cdn-1-mod-agf.zh-cn.eu.org/zh-CN/scripts.json"
+  status = 200
+
+[[redirects]]
   from = "/*"
   to = "https://cdn-1-mod-agf.zh-cn.eu.org/:splat"
   status = 200
