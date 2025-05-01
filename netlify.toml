@@ -1,16 +1,10 @@
 [[redirects]]
-  from = "/"
-  to = "https://thepage-gfork.zh-hk.eu.org/404"
-  status = 200
-  force = true
-
-[[redirects]]
   from = "/favicon.ico"
   to = "https://thepage-gfork.zh-hk.eu.org/favicon.ico"
-  status = 301
+  status = 200
   force = true
 
 [[redirects]]
   from = "/*"
   to = "https://cdn-1-mod-agf.zh-cn.eu.org/:splat"
-  status = 302
+  status = 200
