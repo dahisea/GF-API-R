@@ -43,4 +43,4 @@
 [[redirects]]
   from = "/*json"
   to = "https://api-info-services-global-prod-cdn.dahi.edu.eu.org/:splatjson"
-  status = 200
+  status = 308
