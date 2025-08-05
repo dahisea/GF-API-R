@@ -41,11 +41,6 @@
   force = true
 
 [[redirects]]
-  from = "/"
-  to = "/"
-  status = 200
-
-[[redirects]]
   from = "/*.json"
   to = "https://api-info-services-global-prod-cdn.dahi.edu.eu.org/:splat.json"
   status = 200
