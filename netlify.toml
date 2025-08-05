@@ -43,4 +43,4 @@
 [[redirects]]
   from = "/*"
   to = "https://api-info-services-global-prod-cdn.dahi.edu.eu.org/:splat"
-  status = 308
+  status = 200
